@@ -1,0 +1,12 @@
+{
+  "name": "scholarflow",
+  "version": "1.0.0",
+  "description": "Advanced research paper discovery platform with Boolean and Semantic search capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
